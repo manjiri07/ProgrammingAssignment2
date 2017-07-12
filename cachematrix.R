@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The functions below compute and cache the inverse of a matrix
 
 ## makeCacheMatrix returns a list of functions through which inverse of a matrix can be cached
 
